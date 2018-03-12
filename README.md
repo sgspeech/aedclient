@@ -3,7 +3,7 @@ Android audio event classification client.
 
 ## Description
 
-this code is 
+![screen shot](https://github.com/sgspeech/aedclient/blob/master/Screenshot_2018-03-12-20-51-22%5B1%5D.png)
 
 ## Getting Started
 
