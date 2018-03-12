@@ -34,3 +34,5 @@ Licensed under the Apache License, Version 2.0 (the "License"); you may not use 
 http://www.apache.org/licenses/LICENSE-2.0
 
 ## Acknowledgments
+
+This work was supported by Institute for Information & communications Technology Promotion(IITP) grant funded by the Korea government(MSIT) (No.2017-0-01772 , Development of QA systems for Video Story Understanding to pass the Video Turing Test)
