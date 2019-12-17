@@ -18,7 +18,7 @@ Android audio event classification client.
 
 ## Authors
 
-Sogang University Spoken Language Laboratory(sgspeechlab@gmail.com)
+Sogang University Auditory Intelligence Laboratory(sgspeechlab@gmail.com)
 
 
 ## Version History
@@ -26,6 +26,10 @@ Sogang University Spoken Language Laboratory(sgspeechlab@gmail.com)
 
 * 1.0
     * Initial Release
+    
+* 1.0.1
+    * Minor bug fix
+    
 
 ## License
 
