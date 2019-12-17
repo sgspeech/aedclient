@@ -139,7 +139,7 @@ public class MainActivity extends AppCompatActivity {
 
         client = new Client(this, listener);
     }
-
+    // 최신 버전의 안드로이드에 대하여, 권한 획득을 위한 mainactivity의 method입니다.
     private void checkPermission() {
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
