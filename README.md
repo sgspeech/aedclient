@@ -26,6 +26,10 @@ Sogang University Spoken Language Laboratory(sgspeechlab@gmail.com)
 
 * 1.0
     * Initial Release
+    
+* 1.0.1
+    * Minor bug fix
+    
 
 ## License
 
